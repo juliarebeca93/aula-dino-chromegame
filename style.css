@@ -1,0 +1,14 @@
+/* reset para o CSS*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.dino{
+width: 60px;
+height: 60px;
+background: green;
+position: absolute;
+bottom: 0;
+}
